@@ -93,6 +93,3 @@ Cypress.on('uncaught:exception', (err, runnable) => {
 ## Considerações Finais
 
 Este conjunto de testes garante que as principais funcionalidades da conciliação de vendas e do login estejam operando corretamente. Caso seja necessário adicionar novos testes ou modificar algum comportamento, edite os arquivos `ConciliacaoVendas.spec.js` ou `Login.spec.js` ou os arquivos auxiliares na pasta `support/pages/`.
-
-Para mais informações sobre Cypress, consulte a [documentação oficial](https://docs.cypress.io/).
-
