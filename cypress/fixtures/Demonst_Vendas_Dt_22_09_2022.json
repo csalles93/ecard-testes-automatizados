@@ -1,0 +1,48 @@
+{
+    "NaoConciliadas": {
+        "VendaMacro":  { 
+            "Filial": "F00",
+            "DataVenda": "01/09/2022",
+            "HoraDaVenda": "11:33",
+            "Operadora": "CIELO",
+            "Bandeira": "ELO",
+            "Produto": "ELO CRÉDITO'",
+            "NumeroDoCartao": "506718******1814",
+            "MáquinaLoja": "10156795",
+            "ModoDeCaptura": "E-COMMERCE/INTERNET",
+            "Plano": "1",
+            "Nsu": "36002",
+            "NsuAdmin": "",
+            "NsuHost": "8671082",
+            "Autorizacao": "634651",
+            "Tid": "1015697809219U2U0AUE",
+            "Lote": "222555190068036",
+            "ValorDaVenda": "2.618,00",
+            "DadosDoCliente": ""
+        },
+        "VendaMicro": {}
+    },
+    "Conciliadas": {
+        "VendaMacro":  { 
+            "Filial": "F29",
+            "DataVenda": "01/09/2022",
+            "HoraDaVenda": "14:48",
+            "Operadora": "REDE",
+            "Bandeira": "VISA",
+            "Produto": "VISA",
+            "NumeroDoCartao": "417400******3897",
+            "MáquinaLoja": "PV893260",
+            "ModoDeCaptura": "TEF/PDV",
+            "Plano": "1",
+            "Nsu": "256457983",
+            "NsuAdmin": "",
+            "NsuHost": "8671082",
+            "Autorizacao": "781433",
+            "Tid": "",
+            "Lote": "21932172",
+            "ValorDaVenda": "10,00",
+            "DadosDoCliente": "NPV;F29/163786"
+        },
+        "VendaMicro": {}
+        }
+}

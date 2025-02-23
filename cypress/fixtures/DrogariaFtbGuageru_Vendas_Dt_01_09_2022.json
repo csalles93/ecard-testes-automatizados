@@ -1,0 +1,30 @@
+{
+    "NaoConciliadas": {
+        "VendaMacro":  {},
+        "VendaMicro": {}
+    },
+    "Conciliadas": {
+        "VendaMacro":  { 
+            "Filial": "FTB BARÃO",
+            "DataVenda": "01/09/2022",
+            "HoraDaVenda": "15:35",
+            "Operadora": "REDE",
+            "Bandeira": "VISA",
+            "Produto": "VISA",
+            "NumeroDoCartao": "422005******2064",
+            "MáquinaLoja": "SN129865",
+            "ModoDeCaptura": "POS",
+            "Plano": "2",
+            "Nsu": "131311591",
+            "NsuAdmin": "",
+            "NsuHost": "",
+            "Autorizacao": "019712",
+            "Tid": "",
+            "Lote": "64449364",
+            "ValorDaVenda": "62,76",
+            "DadosDoCliente": "",
+            "Observacao": "BAIXADO NO DIA 05-09"
+        },
+        "VendaMicro": {}
+        }
+}

@@ -1,0 +1,8 @@
+{
+    "baseUrl":"http://apps.homolog.boavistanet.com.br:8082/conciliador-3/",
+    "pageLoadTimeout":600000,
+    "numTestsKeptInMemory": 0,
+    "viewportWidth": 1280,
+    "viewportHeight": 720,
+    "defaultCommandTimeout": 10000
+}

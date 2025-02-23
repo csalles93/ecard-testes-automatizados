@@ -1,0 +1,48 @@
+{
+    "NaoConciliadas": {
+        "VendaMacro":  { 
+            "Filial": "CF 01",
+            "DataVenda": "01/09/2022",
+            "HoraDaVenda": "13:18",
+            "Operadora": "PAGSEGURO",
+            "Bandeira": "MASTERCARD",
+            "Produto": "MAESTRO'",
+            "NumeroDoCartao": "5447316243",
+            "MáquinaLoja": "72000921",
+            "ModoDeCaptura": "TEF/PDV",
+            "Plano": "1",
+            "Nsu": "90144710010",
+            "NsuAdmin": "224416250002",
+            "NsuHost": "224416250",
+            "Autorizacao": "174568",
+            "Tid": "1140F2DB6D804EC0A6342FA1B3B8EE98",
+            "Lote": "",
+            "ValorDaVenda": "29,70",
+            "DadosDoCliente": ""
+        },
+        "VendaMicro": {}
+    },
+    "Conciliadas": {
+        "VendaMacro":  {
+            "Filial": "CF 01",
+            "DataVenda": "01/09/2022",
+            "HoraDaVenda": "13:18",
+            "Operadora": "PAGSEGURO",
+            "Bandeira": "MASTERCARD",
+            "Produto": "MAESTRO'",
+            "NumeroDoCartao": "5447316243",
+            "MáquinaLoja": "72000921",
+            "ModoDeCaptura": "TEF/PDV",
+            "Plano": "1",
+            "Nsu": "90144710010",
+            "NsuAdmin": "224416250002",
+            "NsuHost": "224416250",
+            "Autorizacao": "174568",
+            "Tid": "1140F2DB6D804EC0A6342FA1B3B8EE98",
+            "Lote": "",
+            "ValorDaVenda": "29,70",
+            "DadosDoCliente": ""
+        },
+        "VendaMicro": {}
+        }
+}
