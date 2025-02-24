@@ -28,7 +28,7 @@ describe('Testes da tela Conciliação Vendas', () => {
         SelecioneEmpresa.selecionarEmpresaPeloNome(Variavel.SelecionarEmpresa.Demonstracao.nome_empresa)
         Menu.acessarTelaConciliacaoVendas()
         // Alterna para a versão antiga da tela.
-        ConciliacaoVendas.mudarParaTelaAntiga()
+        ConciliacaoVendas.mudarParaTelaAntiga()     
         // Limpa os campos obrigatórios para validar a necessidade de preenchimento.
         ConciliacaoVendas.limparCamposObrigatorios()
         // Realiza a pesquisa sem preencher os campos obrigatórios.

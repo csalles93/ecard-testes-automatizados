@@ -22,7 +22,7 @@ class Menu {
         cy.get(loc.Campo.TituloDaPagina).invoke('text').should('equal','Consulta Geral - Pesquisar')
     }
     acessarTelaConciliacaoVendas(){
-        cy.get(loc.Menu.Vendas).click();
+        cy.get(loc.Menu.Vendas).click({force: true});
         cy.get(loc.Menu.MenuAberto).should('be.visible')
         cy.get(loc.SubMenu.ConciliacaoVendas).first().click().realMouseDown()
         cy.get(loc.Campo.TituloDaPagina).invoke('text').should('equal','Conciliação das Vendas')
