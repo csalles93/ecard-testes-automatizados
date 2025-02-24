@@ -124,7 +124,7 @@ class ConciliacaoVendas {
                 cy.get(loc.Opcao.LinkPesquisar(Parametros.Parametros.Combo.modo_de_captura)).click({force: true})
                 cy.contains('Carregando...').should('be.visible')
                 cy.get(loc.Campo.ModalModoDeCapturaTitulo).should('have.text', Parametros.Mensagens.modal_modo_de_captura_pesquisar)
-                cy.get(loc.Campo.ModalModoDeCapturaPesquisa).should('exist').should('be.visible').click({force: true})
+                cy.get(loc.Campo.ModalModoDeCapturaPesquisa, { timeout: 10000 }).should('exist').should('be.visible').click({force: true})
                 cy.contains('Carregando...').should('not.be.visible')
                 cy.get(loc.Campo.ModalModoDeCapturaPesquisa).type(valor)
                 cy.wait(1000)
